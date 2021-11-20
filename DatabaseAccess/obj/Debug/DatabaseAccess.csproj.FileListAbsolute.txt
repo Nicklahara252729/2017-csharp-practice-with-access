@@ -1,0 +1,31 @@
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe.config
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\bin\Debug\mydb.accdb
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.Form1.resources
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.Properties.Resources.resources
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.GenerateResource.Cache
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.exe
+c:\users\mustaamir\documents\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe.config
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.exe
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\mydb.accdb
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.Form1.resources
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\mydb.accdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.jabatan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\LatihanDatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.GenerateResource.Cache
